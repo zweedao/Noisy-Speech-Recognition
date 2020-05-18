@@ -1,5 +1,6 @@
 # noisy-speech-recognition
-ML engine to remove background noise from speech and print speech to text. 
+ML engine to remove background noise from speech and print speech to text 
+(See this Google Colab for full demo: https://colab.research.google.com/drive/11ib6HoIQYx05tp-xyaCE08gkTBWToRrN)
 
 2 main features:
 
@@ -7,4 +8,3 @@ ML engine to remove background noise from speech and print speech to text.
 
 - Recognize speech using convolutional neural network.
 
-Please see the iPython Notebooks in this repo for full demo.
