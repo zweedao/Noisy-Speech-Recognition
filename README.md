@@ -7,4 +7,4 @@ ML engine to remove background noise from speech and print speech to text.
 
 - Recognize speech using convolutional neural network.
 
-Please see the iPython Notebooks in this repo for full code & graphics.
+Please see the iPython Notebooks in this repo for full code graphics, and results.
