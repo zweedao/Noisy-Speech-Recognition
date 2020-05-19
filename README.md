@@ -9,3 +9,5 @@ See this Google Colab for full demo: https://colab.research.google.com/drive/11i
 
 - Recognize speech using convolutional neural network.
 
+![Noisy vs clean](noisy_clean.png)
+
